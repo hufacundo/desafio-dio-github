@@ -1,2 +1,10 @@
 Link para dowload do Git: https://git-scm.com/downloads
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Comandos básicos para criar um repositório no Git/Github:
+
+1º git clone: Para clonar a pasta desejada;
+2º git status: Para saber o status da sua pasta;
+3º git add . : Para add a pasta desejada;
+4º git commit -m "...": Para add um comentário a modificação da pasta;
+5º git push origin main: Para add a pasta ao Github
