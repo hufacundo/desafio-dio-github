@@ -8,3 +8,5 @@ Comandos básicos para criar um repositório no Git/Github:
 3º git add . : Para add a pasta desejada;
 4º git commit -m "...": Para add um comentário a modificação da pasta;
 5º git push origin main: Para add a pasta ao Github
+
+OBS: Para atualizar a pasta já existente, basta fazer o mesmo caminho acima.
